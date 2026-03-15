@@ -525,4 +525,4 @@ The document may be cited as a defensive publication establishing prior art for 
 Author
 
 Vadym Tsinderhoz  
-2026
+15/03/2026
