@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Universal Heterogeneous Photonic-Cooled Compute Architecture (UHPCCA)
+message: If you use this work, please cite it as below.
+authors:
+  - family-names: Tsinderhoz
+    given-names: Vadym
+date-released: 2026
+version: 1.0
+license: CC-BY-4.0
+repository-code: https://github.com/Tsinder/UHPCCA-Architecture
